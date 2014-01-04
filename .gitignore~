@@ -5,4 +5,7 @@
 *.class
 
 # DEX files
-*.dex
+*.de
+
+# ap files
+*.ap_
