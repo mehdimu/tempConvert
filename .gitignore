@@ -1,0 +1,8 @@
+# Builds
+*.apk
+
+# Classes
+*.class
+
+# DEX files
+*.dex
